@@ -51,6 +51,6 @@ Overall, the analysis underscores the resilience of Zomato as a major player in 
 Alok Choudhary
 
 LinkedIn Profile: Alok Choudhary 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/alok-choudhary9341776554)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkedin.com/in/alok-choudhary9341776554)
 
 ## Thanks
