@@ -48,7 +48,7 @@ The Zomato Analysis Report suggests that the company is well-positioned for cont
 Overall, the analysis underscores the resilience of Zomato as a major player in the evolving food delivery ecosystem. As the company navigates through the ever-changing landscape, adapting to emerging trends and maintaining a focus on customer satisfaction will be pivotal for its long-term success. Investors, stakeholders, and the company itself can use these findings as a foundation for informed decision-making and strategic planning in the dynamic and competitive food delivery market.
 
 ## Author:
-Alok Choudhary
+Alok Choudhary (Data Scientist)
 
 LinkedIn Profile: Alok Choudhary 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkedin.com/in/alok-choudhary9341776554)
